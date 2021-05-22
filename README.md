@@ -139,30 +139,30 @@ https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%
 ## 其它博客
 
 windows客户端：
-[win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top//clash%E6%95%99%E7%A8%8B.html)
+[win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
 
 游戏客户端推荐：
-[netch使用教程](https://honven.top//netch%E6%95%99%E7%A8%8B.html)
+[netch使用教程](https://honven.top/netch%E6%95%99%E7%A8%8B.html)
 
-[sstap使用教程](https://honven.top//sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[sstap使用教程](https://honven.top/sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 
 
 安卓客户端推荐：
-[Android—Clash for Android 使用教程](https://honven.top//Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[Android—Clash for Android 使用教程](https://honven.top/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://honven.top//%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://honven.top/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[Telegram频道推荐](https://honven.top//telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
+[Telegram频道推荐](https://honven.top/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
 
 
 IOS客户端推荐：
 IOS-Shadowrocket(小火箭)使用教程:https://honven.top/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html
 
-[Quantumult简单使用教程](https://honven.top//Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[Quantumult简单使用教程](https://honven.top/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[QuantumultX小白简单使用教程](https://honven.top//QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[QuantumultX小白简单使用教程](https://honven.top/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://honven.top//%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
+[路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://honven.top/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
 
-[机场订阅链接转换收集与教程](https://honven.top//%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+[机场订阅链接转换收集与教程](https://honven.top/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
