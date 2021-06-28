@@ -19,12 +19,15 @@
 ### 2.shadowsocks(R)和V2ray：
 
 
-客户端推荐使用clash  ,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择最快的节点，具体使用教程参考另外一篇博客：
- https://honven.top/ClashR%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(windows,mac,linux,%E5%AE%89%E5%8D%93,ios).html
+客户端推荐使用clash  ,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择最快的节点，具体使用教程参考另外一篇博客：https://honven.top/clash%E6%95%99%E7%A8%8B.html
+
 
 ##### 免费机场/白嫖机场 ：
 
 有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！
+
+稳定高速付费机场，花钱可以解决很多事：
+https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html
 
 
 [百慕大里的小小布吉岛](https://v2.bujidao.org/auth/register?code=vu9o): 23G流量。233天有效期。邀请链接注册会有2元余额，可买两次免费加油包
@@ -133,8 +136,6 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 https://github.com/kelthuzadx/hosts
 
 
-稳定高速其它机场：
-https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html
 
 ## 其它博客
 
