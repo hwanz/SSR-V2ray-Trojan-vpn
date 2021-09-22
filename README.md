@@ -29,6 +29,70 @@
 稳定高速付费机场，花钱可以解决很多事：
 https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html
 
+20210922更新：
+
+
+[维尼云](https://dlj.tf/bHDAXBj) : 5条免费线路，不验证邮箱，永久白嫖，这家可以续费
+
+[NOVACLOUD](https://www.q88q.cyou/) : 每日签到可以一直白嫖使用
+
+[自由人士](http://freeperson.xyz/auth/register?code=GDTS) : 一直白嫖
+
+[CLAPSE](https://user.clapse.com/#/register?code=kf9BGDSY) : 7天10G
+
+[逸云](https://yiyun.cyou/#/register?code=EQrig469) : 7天试用及10G初始流量,线路不少
+
+[云上极速](https://yunshang.uk/#/register?code=wcasYnCa) ：1天5G
+ 
+[云网](https://www.cni.lol/#/register?code=MQXvMBK4) :7天5G
+
+[00xyz](https://00xyz.xyz/#/register?code=THCRgF2v) 15天20.00 GB
+
+[彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 2G流量体验-一天有效期
+
+[猪头云](https://my.zhutou.cyou/#/register?code=F8ZUGM75) : 7 天10G
+
+[蘑菇云](https://1mgy.com/#/register?code=lUYahjc0) ： 1天1G
+
+[鱼港](https://port.sfish.top/#/register?code=bMaY1DRR) : 1天10G
+
+[Alink123](https://my.pbap.cc/#/register?code=ahOtFxcN) : 1天64G
+
+[新云网络](https://www.xinyun.buzz/auth/register?code=IgQz) : 30天15 GB，3条线路
+
+[快乐星球](https://zy.klxqiu.co/#/register?code=ORFpEx8Z) : 一年试用版免费使用权，初始30G/月流量，流量可用于白嫖节点。
+
+[企鹅的免流小屋](http://pengui.cloud/#/register?code=HkxdVrp4) : 1天3000 GB
+
+[可樂雲Kelecloud](https://xn--fjqzfu8n.xyz/#/register?code=I6qfXPOs): 24小時5G試用流量
+
+[酸奶VPN](https://shyni.xyz/auth/register?code=NHWu) 1天10 GB
+
+[coolcloud](https://www.coolcloud.cc/#/register?code=RO6cITxa) :7天20G
+
+[跨越长城](https://direct.gfwservice.xyz/#/register?code=F94wAx08) 8天10G
+
+[小花](https://m.xhhv2.com/auth/register?code=AZ7S) : 新注册去点击第一个套餐， 1天5G
+
+[樱花落在纸上](https://www.qbklj.xyz/auth/register?code=LBuA) :7天试用及5G初始流量
+
+
+[googo](https://googo.in/#/register?code=xK6ungEP) : 1天1G 
+
+
+[免费谷歌学习引擎](https://shangwangke.org/auth/register?code=is2a) :绑定tg,送5G
+
+[Stars](https://xyttk.icu/#/register?code=41IT1W2D) :1天100G
+
+[众云](https://xn--9kqpm.shop/#/register?code=poTB7pLr) :1天2G
+
+[猪猪VPN，不太行，算了](https://zz1234.xyz/auth/register?code=2UCv) : 6 天100G
+
+
+
+----------------------------------------------
+
+
 [大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天20G
 
 [v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
