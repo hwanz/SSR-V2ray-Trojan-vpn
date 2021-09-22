@@ -5,15 +5,15 @@
 
 ### 1.软件
 
-** 迷雾通 ** ： 免费
+**迷雾通** ： 免费
 [免翻墙，github下载地址](:https://is.gd/getmwt)
 [官网，需要翻墙才能打开](https://geph.io/zhs/) 
 
 
-** landeng **：https://github.com/getlantern/ 
+**landeng**：https://github.com/getlantern/ 
 免费限制500M，下面有些链接被墙了,可以先用蓝灯打开
 
-** 赛风 **：https://psiphon3.com/zh/index.html  （免费,不稳定）
+**赛风**：https://psiphon3.com/zh/index.html  （免费,不稳定）
 
 
 ### 2.shadowsocks(R)和V2ray：
@@ -41,6 +41,10 @@ https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%
 [CLAPSE](https://user.clapse.com/#/register?code=kf9BGDSY) : 7天10G
 
 [逸云](https://yiyun.cyou/#/register?code=EQrig469) : 7天试用及10G初始流量,线路不少
+
+[大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天20G
+
+[v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
 
 [云上极速](https://yunshang.uk/#/register?code=wcasYnCa) ：1天5G
  
@@ -93,9 +97,7 @@ https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%
 ----------------------------------------------
 
 
-[大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天20G
 
-[v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
 
 [百慕大里的小小布吉岛](https://v2.bujidao.org/auth/register?code=vu9o): 23G流量。233天有效期。邀请链接注册会有2元余额，可买两次免费加油包
 
