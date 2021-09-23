@@ -10,24 +10,25 @@
 [官网，需要翻墙才能打开](https://geph.io/zhs/) 
 
 
-**landeng**：https://github.com/getlantern/ 
+**landeng**：
+[官网](https://github.com/getlantern/)
 免费限制500M，下面有些链接被墙了,可以先用蓝灯打开
 
-**赛风**：https://psiphon3.com/zh/index.html  （免费,不稳定）
+**赛风**：  [官网](https://psiphon3.com/zh/index.html)（免费,不稳定）
 
 
 ### 2.shadowsocks(R)和V2ray：
 
 
-客户端推荐使用clash  ,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择最快的节点，具体使用教程参考另外一篇博客：https://honven.top/clash%E6%95%99%E7%A8%8B.html
+客户端推荐使用clash  ,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择最快的节点，具体使用教程参考另外一篇博客: [clash教程](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
 
 
 ##### 免费机场/白嫖机场 ：
 
 有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！
 
-稳定高速付费机场，花钱可以解决很多事：
-https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html
+稳定高速付费机场，花钱可以解决很多事：<a href="https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html">稳定快速专线付费ssr/v2ray机场推荐</a>
+
 
 20210923更新：
 
@@ -209,7 +210,9 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 ### 4.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
-https://github.com/kelthuzadx/hosts
+<a href="https://github.com/kelthuzadx/hosts">改hosts教程</a>
+
+
 
 
 
@@ -234,7 +237,7 @@ windows客户端：
 
 
 IOS客户端推荐：
-IOS-Shadowrocket(小火箭)使用教程:https://honven.top/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html
+<a href="https://honven.top/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">IOS-Shadowrocket(小火箭)使用教程</a>
 
 [Quantumult简单使用教程](https://honven.top/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
