@@ -27,7 +27,7 @@
 
 有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！
 
-稳定高速付费机场，花钱可以解决很多事：<a href="https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html">稳定快速专线付费ssr/v2ray机场推荐</a>
+稳定高速付费机场，花钱可以解决很多事：<a href="https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定快速专线付费ssr/v2ray机场推荐</a>
 
 
 20210923更新：
@@ -201,12 +201,12 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 ### 3.谷歌浏览器插件
 免费的小心被钓鱼和个人信息
-可以使用https://www.gugeapps.net/ 这个谷歌镜像镜像搜索安装；
+可以使用https://www.gugeapps.net/ 这个谷歌镜像镜像搜索安装；   
 
-** 谷歌访问助手 **：http://www.ggfwzs.com/ ：免费使用12小时，永久使用会要求你绑定主页；口碑还行
-** setup vpn **：(免费)
-** hoxx vpn proxy **:（免费）
-** skyZIP™ Proxy ** :（免费）
+**谷歌访问助手**：http://www.ggfwzs.com/ ：免费使用12小时，永久使用会要求你绑定主页；口碑还行    
+**setup vpn**：(免费)    
+**hoxx vpn proxy**:（免费） 
+**skyZIP™ Proxy** :（免费）   
 
 ### 4.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
