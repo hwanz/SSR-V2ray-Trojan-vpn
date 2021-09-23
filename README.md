@@ -29,7 +29,7 @@
 稳定高速付费机场，花钱可以解决很多事：
 https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html
 
-20210922更新：
+20210923更新：
 
 
 [维尼云](https://dlj.tf/bHDAXBj) : 5条免费线路，不验证邮箱，永久白嫖，这家可以续费
@@ -45,6 +45,16 @@ https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%
 [大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天20G
 
 [v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
+
+
+[几鸡](https://b.luxury/waf/HrbmzzUafRgk8vcd2) :1天10G
+
+[免费v2ray](https://www.mfv2ray.top/) :1天1GB
+
+[Misaka Airport](https://air.misakano.eu.org/#/register?code=nCVB4JtM) : 30天50G
+
+[IKUUU VPN](https://ikuuu.co/) :永久50G
+
 
 [云上极速](https://yunshang.uk/#/register?code=wcasYnCa) ：1天5G
  
