@@ -3,7 +3,12 @@
 
 免费公益机场/白嫖机场/SSR-V2ray-trojan
 
-### 1.软件
+
+掌握最新机场优惠折扣通知，最新机场推荐测速图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
+
+----------------------------------------------
+
+#### 1.软件
 
 **迷雾通** ： 免费
 [免翻墙，github下载地址](:https://is.gd/getmwt)
@@ -17,17 +22,17 @@
 **赛风**：  [官网](https://psiphon3.com/zh/index.html)（免费,不稳定）
 
 
-### 2.shadowsocks(R)和V2ray：
 
 
-客户端推荐使用clash  ,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择最快的节点，具体使用教程参考另外一篇博客: [clash教程](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
+----------------------------------------------
 
 
-##### 免费机场/白嫖机场 ：
+#### 2.免费机场/白嫖机场 ：
 
-有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！
+有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
 
 稳定高速付费机场，花钱可以解决很多事：<a href="https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定快速专线付费ssr/v2ray机场推荐</a>
+
 
 
 20210923更新：
@@ -101,11 +106,9 @@
 
 [众云](https://xn--9kqpm.shop/#/register?code=poTB7pLr) :1天2G
 
-[猪猪VPN，不太行，算了](https://zz1234.xyz/auth/register?code=2UCv) : 6 天100G
 
 
-
-----------------------------------------------
+以上为20210923更新
 
 
 
@@ -161,7 +164,7 @@
 [JAFI](https://www.jafiyun.online/auth/register?code=993B) :2天2G
 
 
-[Kite云加速]kitevpn.me)： 1 天2G
+[Kite云加速](kitevpn.me)： 1 天2G
 
 
 [akkk](https://1.akkk.online/user): 1天5G
@@ -183,11 +186,11 @@
 
 
 需要先翻墙才打得开或者看得到：
-** free-ss ** ：https://free-ss.site
-** https://lncn.org/ **
-** https://www.ssrtool.com/tool/free_ssr **
-** http://ss.pythonic.life/full **
-** https://www.youneed.win/free-ssr **
+**https://free-ss.site**   
+**https://lncn.org/**   
+**https://www.ssrtool.com/tool/free_ssr**   
+**http://ss.pythonic.life/full**   
+**https://www.youneed.win/free-ssr**    
 
 
 
@@ -196,27 +199,33 @@
 https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 
+----------------------------------------------
 
 
 
-### 3.谷歌浏览器插件
+#### 3.谷歌浏览器插件
+
 免费的小心被钓鱼和个人信息
 可以使用https://www.gugeapps.net/ 这个谷歌镜像镜像搜索安装；   
 
 **谷歌访问助手**：http://www.ggfwzs.com/ ：免费使用12小时，永久使用会要求你绑定主页；口碑还行    
 **setup vpn**：(免费)    
-**hoxx vpn proxy**:（免费） 
-**skyZIP™ Proxy** :（免费）   
+**hoxx vpn proxy**:（免费）     
+**skyZIP™ Proxy** :（免费）  
 
-### 4.改hosts
+
+----------------------------------------------
+
+#### 4.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
 <a href="https://github.com/kelthuzadx/hosts">改hosts教程</a>
 
 
+----------------------------------------------
 
 
 
-## 其它博客
+#### 5.其它博客
 
 windows客户端：
 [win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
