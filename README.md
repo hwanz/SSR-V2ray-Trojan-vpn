@@ -1,5 +1,4 @@
-# SSR-V2ray-Trojan-vpn
-免费白嫖公益机场合集SSR-V2ray/免费vpn-定时更新
+# 免费白嫖公益机场合集SSR-V2ray/免费vpn-定时更新
 
 免费公益机场/白嫖机场/SSR-V2ray-trojan
 
