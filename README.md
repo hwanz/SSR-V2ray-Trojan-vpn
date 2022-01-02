@@ -36,6 +36,8 @@
 
 fnf: https://fnf.one/user 一天1G
 
+白月光： https://ss.cn88.net  3天3G
+
 20210923更新：
 
 
