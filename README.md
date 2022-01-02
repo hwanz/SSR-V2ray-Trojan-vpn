@@ -38,6 +38,12 @@ fnf: https://fnf.one/user 一天1G
 
 白月光： https://ss.cn88.net  3天3G
 
+玛瑙云 ：https://manaocloud.xyz/  3天2G
+
+爱探索 :https://lovfree.com/ 1天66G
+
+果园吧： https://guoyuanbar.com/ 3天5g
+
 20210923更新：
 
 
