@@ -32,7 +32,9 @@
 
 稳定高速付费机场，花钱可以解决很多事：<a href="https://honven.top/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB(%E5%85%8D%E8%B4%B9%E4%B8%8E%E4%BB%98%E8%B4%B9).html" target="_blank">稳定快速专线付费ssr/v2ray机场推荐</a>
 
+2022.01更新
 
+fnf: https://fnf.one/user 一天1G
 
 20210923更新：
 
