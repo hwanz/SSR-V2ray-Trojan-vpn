@@ -71,20 +71,20 @@
 
 
 需要先翻墙才打得开或者看得到：
-** free-ss ** ：https://free-ss.site
 
-** https://lncn.org/ **
+[free-ss](https://free-ss.site)
+
+[免费节点lncn](https://lncn.org/)
 
 
-** http://ss.pythonic.life/full **
+[全部SS账号信息](http://ss.pythonic.life/full)
 
 
 
 可以直接打开：
-** https://fanqiang.network/ **
 
+[ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 
 
@@ -96,7 +96,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 #### 3.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
-<a href="https://github.com/googlehosts/hosts">改hosts教程</a>
+<a href="https://github.com/googlehosts/hosts">googlehosts改hosts教程</a>
 
 
 ----------------------------------------------
