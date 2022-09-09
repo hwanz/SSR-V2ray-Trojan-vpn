@@ -35,10 +35,24 @@
 
 **稳定高速付费机场，花钱可以解决很多事：<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
-2022.06更新
 
-吃aff的：速蛙云：独特福利社：奈飞(30元)、P站(65元)、X站(65元)高级会员免费送，自己买一个月要100多，老司机和追剧迷肯定都喜欢，充值1元（1元1天5G）打开福利社即可；
-稳定和速度：自有的负载均衡技术，连上不掉线，晚高峰4k拖着看。官网: https://i.sw18.icu/kxNc
+
+
+2022.09更新
+
+google镜像(可能很快就不能用了吧)：https://xn--flw351e.ml/
+
+
+免费节点池：
+
+http://wxshi.top:9090/
+
+https://getafreenode.com/
+
+
+
+
+2022.08更新
 
 
 [玛瑙云](https://manaocloud.xyz/): 3天2G
@@ -46,14 +60,10 @@
 [爱探索](https://lovfree.com/): 1小时1G
 
 
-[NOVACLOUD](https://www.q88q.cyou/) : 初始1G,每日签到可以一直白嫖使用
-
-
 [大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天10G
 
 [v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
 
-<!-- [几鸡](https://b.luxury/) :1天10G -->
 
 [IKUUU VPN](https://ikuuu.co/) :永久50G
 
@@ -68,6 +78,14 @@
 
 
 [JAFI](https://www.jafiyun.online/auth/register?code=993B) :2天2G
+
+
+[大迅云](https://daxun.club/) : 2G 17天
+
+[百变小樱](https://bbxy.cloud/) :1天1G
+
+[IVPN](https://www.ivpnpro.org/) :1天2G
+
 
 
 需要先翻墙才打得开或者看得到：
