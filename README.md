@@ -36,6 +36,7 @@
 **稳定高速付费机场，花钱可以解决很多事：<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
 
+随手同步更新到这频道，博客更新了可能不知道：[免费白嫖公益代理vpn机场](https://t.me/yangmaoshare) 
 
 
 2022.09更新
