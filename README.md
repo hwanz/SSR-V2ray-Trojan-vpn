@@ -46,9 +46,32 @@ google镜像(可能很快就不能用了吧)：https://xn--flw351e.ml/
 
 免费节点池：
 
+
 http://wxshi.top:9090/
 
 https://getafreenode.com/
+
+http://39.106.12.141:8081/
+
+https://free886.herokuapp.com/
+
+
+https://free.dswang.ga/ 
+
+
+https://hellopool.herokuapp.com/
+
+
+https://origamiboy.herokuapp.com/
+
+
+https://proxies.bihai.cf/ 
+
+
+https://sspool.herokuapp.com/
+
+http://guobang.herokuapp.com/ 
+
 
 
 
