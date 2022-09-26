@@ -2,6 +2,8 @@
 
 免费公益机场/白嫖机场/SSR-V2ray-trojan
 
+随手同步更新到这频道，博客更新了可能不知道：[免费白嫖公益代理vpn机场](https://t.me/yangmaoshare) 
+
 
 掌握最新机场优惠折扣通知，最新机场推荐评测图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
 
@@ -36,7 +38,6 @@
 **稳定高速付费机场，花钱可以解决很多事：<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
 
-随手同步更新到这频道，博客更新了可能不知道：[免费白嫖公益代理vpn机场](https://t.me/yangmaoshare) 
 
 
 2022.09更新
