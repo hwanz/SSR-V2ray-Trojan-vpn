@@ -39,8 +39,17 @@
 
 
 
+**2022.10更新**
 
-2022.09更新
+[InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G；可购买可续费
+
+[闪电猫](https://speedcat-aff.com/auth/register?code=52q2) ：3天5G；免费体验优惠码：点击商店；滑到最下面，找到5元的【免费测试套餐】，然后点击购买。填写优惠码 free，点击下一步。
+
+[glados](https://glados.networ) :  免费4天,10G
+
+
+
+**2022.09更新**
 
 google镜像(可能很快就不能用了吧)：https://xn--flw351e.ml/
 
@@ -77,7 +86,7 @@ http://guobang.herokuapp.com/
 
 
 
-2022.08更新
+**2022.08更新**
 
 
 [玛瑙云](https://manaocloud.xyz/): 3天2G
