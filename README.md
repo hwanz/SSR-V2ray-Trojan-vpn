@@ -41,11 +41,20 @@
 
 **2022.10更新**
 
+
+[RELAYCLOUD](https://relaycloud.pro/auth/register?code=YqVf) : 公益套餐，15/年，每季度30G流量，6条线路。更高等级套餐为中转线路。；可购买可续费，老板和技术均在东南亚
+
+[KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G；可购买可续费
+
 [InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G；可购买可续费
+
 
 [闪电猫](https://speedcat-aff.com/auth/register?code=52q2) ：3天5G；免费体验优惠码：点击商店；滑到最下面，找到5元的【免费测试套餐】，然后点击购买。填写优惠码 free，点击下一步。
 
 [glados](https://glados.networ) :  免费4天,10G
+
+
+[BK网络加速器](https://bkwljsq.shop/#/register?code=Qfpzhh4L) : 1天 10G
 
 
 
