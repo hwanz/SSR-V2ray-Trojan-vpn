@@ -1,6 +1,6 @@
-# 免费白嫖公益机场合集SSR-V2ray/免费vpn-定时更新
+# 免费机场公益机场合集SSR-V2ray/免费vpn-定时更新
 
-免费公益机场/白嫖机场/SSR-V2ray-trojan
+免费机场公益机场SSR-V2ray-trojan
 
 随手同步更新到这频道，博客更新了可能不知道：[免费白嫖公益代理vpn机场](https://t.me/yangmaoshare) 
 
