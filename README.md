@@ -51,7 +51,7 @@
 
 [闪电猫](https://speedcat-aff.com/auth/register?code=52q2) ：3天5G；免费体验优惠码：点击商店；滑到最下面，找到5元的【免费测试套餐】，然后点击购买。填写优惠码 free，点击下一步。
 
-[glados](https://glados.networ) :  免费4天,10G
+[glados](https://glados.rocks/) :  免费4天,10G
 
 
 [BK网络加速器](https://bkwljsq.shop/#/register?code=Qfpzhh4L) : 1天 10G
@@ -66,30 +66,21 @@ google镜像(可能很快就不能用了吧)：https://xn--flw351e.ml/
 免费节点池：
 
 
-http://wxshi.top:9090/
-
 https://getafreenode.com/
-
-http://39.106.12.141:8081/
-
-https://free886.herokuapp.com/
-
-
-https://free.dswang.ga/ 
-
-
-https://hellopool.herokuapp.com/
-
-
-https://origamiboy.herokuapp.com/
-
 
 https://proxies.bihai.cf/ 
 
+https://free886.herokuapp.com/ 
 
-https://sspool.herokuapp.com/
+https://sspool.herokuapp.com/ 
 
-http://guobang.herokuapp.com/ 
+https://us-proxypool.herokuapp.com/ 
+
+https://eu-proxypool.herokuapp.com/ 
+
+http://39.106.12.141:8081/ 
+
+https://free.dswang.ga/ 
 
 
 
