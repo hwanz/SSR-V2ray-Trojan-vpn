@@ -37,10 +37,14 @@
 
 [TAG官网链接](https://suo.yt/KIv9ZJq) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
 
+[云翼网络](https://suo.yt/tC69nKu) IEPl专线与公网中转ss机场。1块1天5G试用。
 
 [翼游官网](https://suo.yt/jo4NFtf)   ：ssr+trojan，全IEPl专线机场。有各个平台小白一键使用客户端。 每月10块50G流量 2个客户端，随便用用没问题。
 
-[kycloud官网](https://suo.yt/Wu4o6b1) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
+[kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
+
+[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。圣诞月85折全场优惠码：HappyDecember 。优惠码有效期至12月31日
+
 
 [Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
 
