@@ -62,15 +62,20 @@
 有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
 
 **2023.01更新**
-节点池：通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](https://jichangpingce.com/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
 
-通用订阅：
-1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等 
+[小三VPN](https://github.com/sharmajv/vpn):“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
 
-2）https://sub.sharecentre.online/sub 12条，vmess 
 
-clash订阅：
-https://v1.mk/R3AZOFt  
+节点池：
+
+通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](https://jichangpingce.com/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+
+通用订阅：    
+1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等    
+
+2）https://sub.sharecentre.online/sub 12条，vmess   
+
+clash订阅：  https://v1.mk/R3AZOFt     
 
 [大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：一个月10G 
 
@@ -84,7 +89,6 @@ https://v1.mk/R3AZOFt
 
 [凌云网络](https://console.ly520.me/#/register?code=Zoz78v3O) 一天1G试用  
 
-[小三VPN](https://github.com/sharmajv/vpn):“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
 
 [逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
 
