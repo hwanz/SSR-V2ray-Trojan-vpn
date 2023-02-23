@@ -62,134 +62,84 @@
 有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
 
 
-**2023.02更新**
-
-派蒙节点池，clash订阅地址：
-https://sub.pmsub.me/clash.yaml  
-
-安卓APP: 
-nthlink 
-1.1.1.1
-
-
-
-
-**2023.01更新**
-
-[小三VPN](https://github.com/sharmajv/vpn):“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
-
-
-节点池：
-
-通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](https://jichangpingce.com/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
-
-通用订阅：    
-1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等    
-
-2）https://sub.sharecentre.online/sub 12条，vmess   
-
-clash订阅：  https://v1.mk/R3AZOFt     
-
-[大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：一个月10G 
-
-[帝瓦雷](https://diwolei.com/#/register?code=IxuyTwOh) 半年5G 
-
-[tencent云](https://www.tencent.cfd/#/register?code=wqekFvkT) 一个月10G 
-
-[BT3rd-Speed](https://px.bt3.one/#/register?code=hXGyTbwS) 6天10G 
-
-[proxyvip](https://www.proxyvip.xyz/#/register?code=OwoZI8sC) 一天60G 
-
-[凌云网络](https://console.ly520.me/#/register?code=Zoz78v3O) 一天1G试用  
-
-
-[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
-
-
-
-**2022.12更新**
-
-
 
 
 下面是免费机场，不一定还有免费活动，可以一个个试试看：
+
+**2023.02更新**
+
+
+节点池：通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+
+
+google镜像：https://xn--flw351e.ml/
+
+
+
+通用订阅：
+1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等
+
+clash订阅地址：
+https://sub.pmsub.me/clash.yaml  
+
+
+2）https://sub.sharecentre.online/sub 12条，vmess
+
+
+
+
+
+[小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
+
+
+[BT3rd-Speed](https://px.bt3.one/#/register?code=hXGyTbwS) 6天10G
+
+
+[glados](https://glados.rocks/) :  免费4天,10G
+
+[proxyvip](https://www.proxyvip.xyz/#/register?code=OwoZI8sC) 一天60G
+
+
+[帝瓦雷](https://diwolei.com/#/register?code=IxuyTwOh) 半年5G
+
+[大迅云](https://daxun.club/) : 5G 5天
+
+[IKUUU VPN](https://ikuuu.co/) :永久50G
+
+
+[凌云网络](https://console.ly520.me/#/register?code=Zoz78v3O) 一天1G试用
+
+[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
+
+[sockboom](https://sockboom.bar/auth/register?affid=513875) : 1天1G
+
+[彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 2G流量体验-一天有效期
+0
+[bitznet](https://dash.bitznetuk.com/#/register?code=NmQ1OwOa) : IEPL专线中转。1天 5G；
+
+[dualnet](https://dashsrc.dualnet.io/#/register?code=Kuml1MNa): IEPL专线中转。1天 5G；
+
+[宝贝云](https://v3ssy.xyz/#/register?code=IIL79wU9) : 1天2G
 
 
 [KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G；可购买可续费
 
 [InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G；可购买可续费
 
+[大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：1h1G
 
-[闪电猫](https://speedcat-aff.com/auth/register?code=52q2) ：3天5G；免费体验优惠码：点击商店；滑到最下面，找到5元的【免费测试套餐】，然后点击购买。填写优惠码 free，点击下一步。
+[魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
-[glados](https://glados.rocks/) :  免费4天,10G
-
-
-[BK网络加速器](https://bkwljsq.shop/#/register?code=Qfpzhh4L) : 1天 10G
-
-
-
-**2022.09更新**
-
-google镜像(可能很快就不能用了吧)：https://xn--flw351e.ml/
-
-
-免费节点池：
-
-
-https://getafreenode.com/
-
-https://proxies.bihai.cf/ 
-
-https://free886.herokuapp.com/ 
-
-https://sspool.herokuapp.com/ 
-
-https://us-proxypool.herokuapp.com/ 
-
-https://eu-proxypool.herokuapp.com/ 
-
-http://39.106.12.141:8081/ 
-
-https://free.dswang.ga/ 
-
-
-
-
-
-**2022.08更新**
-
-
-[玛瑙云](https://manaocloud.xyz/): 3天2G
-
-[爱探索](https://lovfree.com/): 1小时1G
 
 
 [大哥云](https://www.dageyun.net/#/register?code=lEHKtVDi) : 1天10G
 
-[v4speed](https://v4speed.com/#/register?code=ew6t6ilb) 免费试用两天5G
 
 
-[IKUUU VPN](https://ikuuu.co/) :永久50G
+[freedog](https://www.freedog.pw/auth/register?code=Y8h6):3天30G，商店领取。3个节点
 
 
-[彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 2G流量体验-一天有效期
 
-
-[艾可云](https://www.v2aky.com/#/register?code=NfDNuHQK)送1天1g
-
-
-[freedog](https://www.freedog.pw/auth/register?code=Y8h6):3天30G，商店领取
-
-
-[JAFI](https://www.jafiyun.online/auth/register?code=993B) :2天2G
-
-
-[大迅云](https://daxun.club/) : 2G 17天
-
-[百变小樱](https://bbxy.cloud/) :1天1G
-
-[IVPN](https://www.ivpnpro.org/) :1天2G
 
 
 
