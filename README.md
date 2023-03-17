@@ -7,9 +7,8 @@
 
 掌握最新机场优惠折扣通知，最新机场推荐评测图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
 
-----------------------------------------------
 
-#### 1.软件
+## 1.免费软件
 
 **迷雾通** ： 免费
 
@@ -28,10 +27,7 @@
 
 
 
-----------------------------------------------
-
-
-#### 2.先推荐几个便宜的机场：
+## 2.推荐几个便宜的机场
 
 [WgetCloud官网链接](https://suo.yt/0KafTAn) : 华为云入口IEPl专线机场，香港老板，速度和稳定性不错。有按量付费和自定义套餐选项。按量付费：1.2元/G
 
@@ -43,7 +39,7 @@
 
 [kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
 
-[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。圣诞月85折全场优惠码：HappyDecember 。优惠码有效期至12月31日
+[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。
 
 
 [Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
@@ -55,33 +51,12 @@
 
 
 
-#### 3.免费机场/白嫖机场 ：
+## 3.免费机场/白嫖机场 ：
 
-有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
-
-
+有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
 
-下面是免费机场，不一定还有免费活动，可以一个个试试看：
-
-**2023.03更新**
-
-
-节点池：通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
-
-
-google镜像：https://xn--flw351e.ml/
-
-
-
-通用订阅：
-1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等
-
-clash订阅地址：
-https://sub.pmsub.me/clash.yaml  
-
-
-2）https://sub.sharecentre.online/sub 12条，vmess
+2023.03更新
 
 
 [大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。
@@ -90,16 +65,15 @@ https://sub.pmsub.me/clash.yaml
 
 [魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
-
 [逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
-
 
 [mesl](https://in.mesl.cloud/#/register?code=IsL7kuga) :免费试用一天1G。入口：上海电信、深圳阿里云、深圳移动、上海阿里云、东莞唯云、北京电信、佛山电信、嘉兴电信。落地：Misaka、Dmit、HKT、Akari、Kirino、Nearoute、Eons、MIKU、Amazon、Softbank等。流媒体解锁挺好、线路类型很丰富的一个机场。月付14块100G起。试用后感觉不错可以付费使用。
 
 
-[小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
-
 [奶瓶](https://share.eleven.observer/auth/register.html?code=IYRJ) 2小时试用
+
+[besnow](https://besnow.me/index.php#/register?code=TyRVbl9i) :3天9G
+
 
 [KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G；可购买可续费
 
@@ -112,6 +86,7 @@ https://sub.pmsub.me/clash.yaml
 
 [dualnet](https://dashsrc.dualnet.io/#/register?code=Kuml1MNa): IEPL专线中转。1天 5G；
 
+[tly](https://tly.sh/2313972) ： 3天2G,3天签到一次可以继续使用，一直签一直能用。
 
 [BT3rd-Speed](https://px.bt3.one/#/register?code=hXGyTbwS) 6天10G
 
@@ -139,18 +114,30 @@ https://sub.pmsub.me/clash.yaml
 [宝贝云](https://v3ssy.xyz/#/register?code=IIL79wU9) : 1天2G
 
 
-
-
-
-
-
-
-
 [freedog](https://www.freedog.pw/auth/register?code=Y8h6):3天30G，商店领取。3个节点
 
 
 [ac云](https://yysw.acyun.tk/#/register?code=FU99iFix)： 一个月100G,需要自己去商店购买
 
+
+## 3.节点池  
+
+通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+
+
+
+
+通用订阅：
+1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等
+
+clash订阅地址：
+https://sub.pmsub.me/clash.yaml  
+
+
+2）https://sub.sharecentre.online/sub 12条，vmess
+
+
+[小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
 
 
 
@@ -174,20 +161,26 @@ https://sub.pmsub.me/clash.yaml
 
 
 
-----------------------------------------------
 
-
-
-#### 3.改hosts
+## 4.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
 <a href="https://github.com/googlehosts/hosts">googlehosts改hosts教程</a>
 
 
-----------------------------------------------
+
+## 5.Google镜像
+
+https://xn--flw351e.ml/
 
 
+## 6.其它博客
 
-#### 5.其它博客
+
+[Telegram频道推荐](https://jichangtuijian.com/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
+
+[chatgpt套壳镜像](https://jichangtuijian.com/chatgpt%E5%A5%97%E5%A3%B3%E9%95%9C%E5%83%8F.html)
+
+[影视站收集](https://jichangtuijian.com/%E5%BD%B1%E8%A7%86%E7%AB%99%E6%94%B6%E9%9B%86.html):影视站、影视资源收集，方便看剧。我看美剧比较多，以及一些新上线的电影。打不开先试试代理打开。还是打不开就是关了。
 
 windows客户端：
 [win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
@@ -198,22 +191,19 @@ windows客户端：
 [sstap使用教程](https://honven.top/sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 
-
 安卓客户端推荐：
 [Android—Clash for Android 使用教程](https://honven.top/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 [安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://honven.top/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[Telegram频道推荐](https://honven.top/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
-
 
 IOS客户端推荐：
 <a href="https://honven.top/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">IOS-Shadowrocket(小火箭)使用教程</a>
 
-[Quantumult简单使用教程](https://honven.top/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[Quantumult简单使用教程](https://jichangtuijian.com/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[QuantumultX小白简单使用教程](https://honven.top/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+[QuantumultX小白简单使用教程](https://jichangtuijian.com/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
 [路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://honven.top/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
 
-[机场订阅链接转换收集与教程](https://honven.top/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+[机场订阅链接转换收集与教程](https://jichangtuijian.com/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
