@@ -49,8 +49,6 @@
 [Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
 
 
-[RELAYCLOUD](https://relaycloud.pro/auth/register?code=YqVf) : 公益套餐，15/年，每季度30G流量，6条线路。更高等级套餐为中转线路。；可购买可续费，老板和技术均在东南亚
-
 需要更多稳定高速机场参考如下，建议收藏，避免急需：
 
 **<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
@@ -59,7 +57,7 @@
 
 #### 3.免费机场/白嫖机场 ：
 
-有些免费是暂时的，当前可能没有免费活动了。都不建议付费！付费去买好的机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
+有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多：
 
 
 
@@ -88,8 +86,12 @@ https://sub.pmsub.me/clash.yaml
 
 [大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。
 
-[老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R) 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费
+[老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费
 
+[魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
+
+
+[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
 
 
 [mesl](https://in.mesl.cloud/#/register?code=IsL7kuga) :免费试用一天1G。入口：上海电信、深圳阿里云、深圳移动、上海阿里云、东莞唯云、北京电信、佛山电信、嘉兴电信。落地：Misaka、Dmit、HKT、Akari、Kirino、Nearoute、Eons、MIKU、Amazon、Softbank等。流媒体解锁挺好、线路类型很丰富的一个机场。月付14块100G起。试用后感觉不错可以付费使用。
@@ -98,6 +100,18 @@ https://sub.pmsub.me/clash.yaml
 [小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
 
 [奶瓶](https://share.eleven.observer/auth/register.html?code=IYRJ) 2小时试用
+
+[KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G；可购买可续费
+
+[InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G；可购买可续费
+
+[大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：1h1G
+
+
+[bitznet](https://dash.bitznetuk.com/#/register?code=NmQ1OwOa) : IEPL专线中转。1天 5G；
+
+[dualnet](https://dashsrc.dualnet.io/#/register?code=Kuml1MNa): IEPL专线中转。1天 5G；
+
 
 [BT3rd-Speed](https://px.bt3.one/#/register?code=hXGyTbwS) 6天10G
 
@@ -116,26 +130,16 @@ https://sub.pmsub.me/clash.yaml
 
 [凌云网络](https://console.ly520.me/#/register?code=Zoz78v3O) 一天1G试用
 
-[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
 
 [sockboom](https://sockboom.bar/auth/register?affid=513875) : 1天1G
 
 [彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 2G流量体验-一天有效期
-0
-[bitznet](https://dash.bitznetuk.com/#/register?code=NmQ1OwOa) : IEPL专线中转。1天 5G；
 
-[dualnet](https://dashsrc.dualnet.io/#/register?code=Kuml1MNa): IEPL专线中转。1天 5G；
 
 [宝贝云](https://v3ssy.xyz/#/register?code=IIL79wU9) : 1天2G
 
 
-[KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G；可购买可续费
 
-[InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G；可购买可续费
-
-[大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：1h1G
-
-[魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
 
 
