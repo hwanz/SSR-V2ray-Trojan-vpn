@@ -7,6 +7,7 @@
 
 掌握最新机场优惠折扣通知，最新机场推荐评测图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
 
+**如果有帮助到您，点个Star鼓励我日常更新呗~**
 
 ## 1.免费软件
 
@@ -136,6 +137,7 @@ https://sub.pmsub.me/clash.yaml
 [ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 
+
 ## 4.推荐几个便宜的机场
 
 [WgetCloud官网链接](https://suo.yt/0KafTAn) : 华为云入口IEPl专线机场，香港老板，速度和稳定性不错。有按量付费和自定义套餐选项。按量付费：1.2元/G
@@ -161,7 +163,6 @@ https://sub.pmsub.me/clash.yaml
 
 
 
-
 ## 5.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
 <a href="https://github.com/googlehosts/hosts">googlehosts改hosts教程</a>
@@ -171,6 +172,7 @@ https://sub.pmsub.me/clash.yaml
 ## 6.Google镜像
 
 https://xn--flw351e.ml/
+
 
 
 ## 7.其它博客
