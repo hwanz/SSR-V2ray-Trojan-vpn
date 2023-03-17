@@ -27,31 +27,10 @@
 
 
 
-## 2.推荐几个便宜的机场
-
-[WgetCloud官网链接](https://suo.yt/0KafTAn) : 华为云入口IEPl专线机场，香港老板，速度和稳定性不错。有按量付费和自定义套餐选项。按量付费：1.2元/G
-
-[TAG官网链接](https://suo.yt/KIv9ZJq) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
-
-[云翼网络](https://suo.yt/tC69nKu) IEPl专线与公网中转ss机场。1块1天5G试用。
-
-[翼游官网](https://suo.yt/jo4NFtf)   ：ssr+trojan，全IEPl专线机场。有各个平台小白一键使用客户端。 每月10块50G流量 2个客户端，随便用用没问题。
-
-[kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
-
-[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。
-
-
-[Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
-
-
-需要更多稳定高速机场参考如下，建议收藏，避免急需：
-
-**<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
 
 
-## 3.免费机场/白嫖机场 ：
+## 2.免费机场/白嫖机场 ：
 
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
@@ -157,23 +136,44 @@ https://sub.pmsub.me/clash.yaml
 [ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 
+## 4.推荐几个便宜的机场
+
+[WgetCloud官网链接](https://suo.yt/0KafTAn) : 华为云入口IEPl专线机场，香港老板，速度和稳定性不错。有按量付费和自定义套餐选项。按量付费：1.2元/G
+
+[TAG官网链接](https://suo.yt/KIv9ZJq) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
+
+[云翼网络](https://suo.yt/tC69nKu) IEPl专线与公网中转ss机场。1块1天5G试用。
+
+[翼游官网](https://suo.yt/jo4NFtf)   ：ssr+trojan，全IEPl专线机场。有各个平台小白一键使用客户端。 每月10块50G流量 2个客户端，随便用用没问题。
+
+[kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
+
+[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。
+
+
+[Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
+
+
+需要更多稳定高速机场参考如下，建议收藏，避免急需：
+
+**<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
 
 
 
 
-## 4.改hosts
+## 5.改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
 <a href="https://github.com/googlehosts/hosts">googlehosts改hosts教程</a>
 
 
 
-## 5.Google镜像
+## 6.Google镜像
 
 https://xn--flw351e.ml/
 
 
-## 6.其它博客
+## 7.其它博客
 
 
 [Telegram频道推荐](https://jichangtuijian.com/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
