@@ -110,11 +110,18 @@
 通用订阅：
 1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等
 
-clash订阅地址：
+clash订阅地址(直接复制粘贴到clash订阅下载里面)：   
+
+
 https://sub.pmsub.me/clash.yaml  
 
 
 2）https://sub.sharecentre.online/sub 12条，vmess
+
+
+https://git.io/emzclash
+
+https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
 [小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
