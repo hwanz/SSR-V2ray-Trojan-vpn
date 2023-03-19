@@ -38,11 +38,14 @@
 
 2023.03更新
 
-[云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。
+[云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
 
-[大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。
 
-[老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费
+[老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费<a href="https://jichangtuijian.com/老猫云历史测速结果整合.html" target="_blank">老猫云拓扑结构检测和流媒体、历史测速结果合集</a>
+
+
+[大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
+
 
 [魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
