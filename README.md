@@ -46,6 +46,9 @@
 
 [大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
 
+[可莉](http://bit.ly/40owxlY)：全Trojan的线路机场。新注册用户可使用免费的2GB流量。运营5年有余，节点采用BGP入口/IEPL专线热备。有少量小众地区节点（阿根廷、卢森堡、巴西。土耳其），香港线路速度佳，流媒体解锁效果好
+入门套餐:￥16.88/60GB/30天，￥168.88/720GB/360天
+
 
 [魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
