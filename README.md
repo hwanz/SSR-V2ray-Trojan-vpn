@@ -11,22 +11,29 @@
 
 ## 1.免费软件
 
-**迷雾通** ： 免费
+1）迷雾通： 
 
-[免翻墙，github下载地址](https://is.gd/getmwt)
-
-[官网，需要翻墙才能打开](https://geph.io/zhs/) 
+[下载地址](https://is.gd/getmwt)
 
 
-**landeng**：
+[官网，需要代理才能打开](https://geph.io/zhs/) 
+
+2）landeng** 
+
+很多人听过用过
+
 [官网](https://github.com/getlantern/)
 
 免费限制500M，下面有些链接被墙了,可以先用蓝灯打开
 
-**赛风**： [官网](https://psiphon3.com/zh/index.html)（免费,不稳定）
+**赛风**： [官网](https://psiphon3.com/zh/index.html)
 
 
-
+3）Warp
+cloudflare旗下vpn
+全平台下载:https://cloudflarewarp.com/
+到TG机器人bot：
+@generatewarpplusbot  到按提示申请流量的key，然后添加到下载的软件账户上，大概有23pb，1pb等于100万G。不同运营商使用体验不一样。具体自测。
 
 
 
