@@ -43,7 +43,7 @@ cloudflare旗下vpn
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
 
-2023.03更新
+2023.04更新
 
 [云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
 
@@ -168,13 +168,15 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 [kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
 
-[edCloud网链接1](https://suo.yt/h2luF8x) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜5块/25G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。
+[泡泡狗](http://bit.ly/3zFq9LZ): IEPL专线Shadowsocks协议机场。前置佛山珠海走深圳的iepl到香港。过境口子大，解锁不错。月付与不限时共存。7.5/月63G流起.  
 
+
+[edCloud网链接1](https://bit.ly/3DcTK0) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜10块/50G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。  <a href="./回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>   
 
 [Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
 
 
-需要更多稳定高速机场参考如下，建议收藏，避免急需：
+具体介绍如下，需要更多稳定高速机场参考，建议收藏，避免急需：
 
 **<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">稳定快速专线付费ssr/v2ray订阅机场推荐</a>**
 
