@@ -191,7 +191,29 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 ## 6.Google镜像
 
+https://xgoogle.xyz/
+
+https://goo.xbzxs.org/
+
+https://google.power365.ml/
+
+https://jsapi.usthk.cn/
+
+
+https://www.ooopn.com/tool/ggscholar/
+
+https://fsoufsou.com
+
+https://gogo.webbillion.cn
+
+
+https://gogogle.cf/
+
+
+https://startgoogle.startpagina.nl/
+
 https://xn--flw351e.ml/
+
 
 
 
