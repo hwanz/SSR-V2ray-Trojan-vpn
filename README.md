@@ -43,7 +43,7 @@ cloudflare旗下vpn
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
 
-2023.04更新
+2023.05更新
 
 [云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
 
@@ -56,6 +56,7 @@ cloudflare旗下vpn
 
 [雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 4天1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
 
+[FSCloud](https://dash.fscloud.cc/#/register?code=3Ml6pg2Y) : 3天10G,Azure拉全球       
 
 [可莉](http://bit.ly/40owxlY)：全Trojan的线路机场。新注册用户可使用免费的2GB流量。运营5年有余，节点采用BGP入口/IEPL专线热备。有少量小众地区节点（阿根廷、卢森堡、巴西。土耳其），香港线路速度佳，流媒体解锁效果好
 入门套餐:￥16.88/60GB/30天，￥168.88/720GB/360天
