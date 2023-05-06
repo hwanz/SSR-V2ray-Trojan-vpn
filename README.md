@@ -13,7 +13,7 @@
 
 1）迷雾通： 
 
-[下载地址](https://is.gd/getmwt)
+[迷雾通免翻墙链接](https://waa.ai/xiazaimiwutong)
 
 
 [官网，需要代理才能打开](https://geph.io/zhs/) 
