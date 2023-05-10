@@ -26,10 +26,10 @@
 
 免费限制500M，下面有些链接被墙了,可以先用蓝灯打开
 
-**赛风**： [官网](https://psiphon3.com/zh/index.html)
+3）赛风： [官网](https://psiphon3.com/zh/index.html)
 
 
-3）Warp ：
+4）Warp ：
 cloudflare旗下vpn
 全平台下载:https://cloudflarewarp.com/
 到TG机器人bot：
