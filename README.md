@@ -18,7 +18,7 @@
 
 [官网，需要代理才能打开](https://geph.io/zhs/) 
 
-2）landeng** 
+2）landeng：
 
 很多人听过用过
 
@@ -29,7 +29,7 @@
 **赛风**： [官网](https://psiphon3.com/zh/index.html)
 
 
-3）Warp
+3）Warp ：
 cloudflare旗下vpn
 全平台下载:https://cloudflarewarp.com/
 到TG机器人bot：
@@ -213,42 +213,54 @@ https://gogogle.cf/
 
 https://startgoogle.startpagina.nl/
 
-https://xn--flw351e.ml/
-
-
 
 
 ## 7.其它博客
 
+<a href="https://jichangtuijian.com/ssr-v2ray专线机场推荐.html" target="_blank">自用付费稳定高速国外ssr-v2ray-trojan机场推荐</a>
 
-[Telegram频道推荐](https://jichangtuijian.com/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html)
 
-[chatgpt套壳镜像](https://jichangtuijian.com/chatgpt%E5%A5%97%E5%A3%B3%E9%95%9C%E5%83%8F.html)
+<a href="https://jichangtuijian.com/国外VPS主机推荐.html" target="_blank">适合翻墙建站国外VPS服务器主机推荐</a> ：适合自己梯子，或者建站VPS
 
-[影视站收集](https://jichangtuijian.com/%E5%BD%B1%E8%A7%86%E7%AB%99%E6%94%B6%E9%9B%86.html):影视站、影视资源收集，方便看剧。我看美剧比较多，以及一些新上线的电影。打不开先试试代理打开。还是打不开就是关了。
+<a href="https://jichangtuijian.com/telegram%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%E7%BE%A4%E7%BB%84%E6%8E%A8%E8%8D%90.html" target="_blank">Telegram频道推荐，新闻，NSFW开车等</a> 
+
+<a href="https://jichangtuijian.com/chatgpt套壳镜像.html" target="_blank">ChatGPT套壳镜像，免代理使用ChatGPT</a> 
+
+<a href="https://jichangtuijian.com/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">QuantumultX教程，机场订阅和去广告、会员破解、解锁tiktok</a> 
+
+<a href="https://jichangtuijian.com/IOS-Shadowrocket小火箭使用教程.html" target="_blank">Shadowrocket(小火箭)使用教程软件共享账号免费破解下载、去广告规则、解锁tiktok等</a> 
+
+<a href="https://jichangtuijian.com/影视站收集.html" target="_blank">影视站收集,视频会员破解</a>  :看盗版影视
+
+<a href="https://jichangtuijian.com/发卡网收集.html" target="_blank">发卡网收集</a>  :购买apple id，google voice ，quantumultX/Shadowrocket/loon等代理软件，迅雷视频外卖音乐QQ共享单车百度等会员，netflix、spotify等
+
+
+
+<a href="/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html" target="_blank">机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅</a>  ：把多个机场的节点放在一起。
+
+
 
 windows客户端：
-[win/mac客户端推荐使用clash,可以定制规则，v2ray和ss/ssr可以一起使用，自动选择延迟最低的节点](https://honven.top/clash%E6%95%99%E7%A8%8B.html)
+
+<a href="https://jichangtuijian.com/clash%E6%95%99%E7%A8%8B.html" target="_blank">clash for windows使用教程、各个平台Clash客户端、各种Clash客户端</a> 
+
 
 游戏客户端推荐：
-[netch使用教程](https://honven.top/netch%E6%95%99%E7%A8%8B.html)
-
-[sstap使用教程](https://honven.top/sstap%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+<a href="https://jichangtuijian.com/netch使用教程，实现真·全局的代理.html" target="_blank">netch使用教程，实现真·全局的代理</a> 
 
 
 安卓客户端推荐：
-[Android—Clash for Android 使用教程](https://honven.top/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
 
-[安卓ssr-v2ray-trojan代理客户端ssrray使用教程](https://honven.top/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFssrray%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+<a href="https://jichangtuijian.com/Android%E2%80%94Clash%20for%20Android%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">Clash for Android/CFA使用教程</a> 
 
 
-IOS客户端推荐：
-<a href="https://honven.top/IOS-Shadowrocket(%E5%B0%8F%E7%81%AB%E7%AE%AD)%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">IOS-Shadowrocket(小火箭)使用教程</a>
+<a href="https://jichangtuijian.com/surfboard使用教程.html" target="_blank">安卓ssr-v2ray代理客户surfboard使用教程</a> 
+<a href="https://jichangtuijian.com/%E5%AE%89%E5%8D%93ssr-v2ray-trojan%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AFv2rayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html" target="_blank">安卓ssr-v2ray-trojan代理客户端v2rayN使用教程</a> 
 
-[Quantumult简单使用教程](https://jichangtuijian.com/Quantumult%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+<a href="https://jichangtuijian.com/v2raytrojanssrxray多协议安卓客户端.html" target="_blank">v2ray trojan ssr xray多协议安卓客户端收集</a> 
 
-[QuantumultX小白简单使用教程](https://jichangtuijian.com/QuantumultX%E5%B0%8F%E7%99%BD%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html)
+<a href="https://jichangtuijian.com/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html" target="_blank">路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置</a> 
 
-[路由器老毛子Padavan固件ss/v2ray机场服务器订阅设置和clash配置](https://honven.top/%E8%80%81%E6%AF%9B%E5%AD%90Padavan%E5%9B%BA%E4%BB%B6ssv2ray%E6%9C%BA%E5%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A2%E9%98%85%E4%B8%8Eclash%E9%85%8D%E7%BD%AE.html)
+机场测速工具：
+<a href="https://jichangtuijian.com/机场测速之stairspeedtest使用教程.html" target="_blank">机场测速之stairspeedtest使用教程</a> 
 
-[机场订阅链接转换收集与教程](https://jichangtuijian.com/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
