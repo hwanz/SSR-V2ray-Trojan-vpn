@@ -68,12 +68,14 @@ cloudflare旗下vpn
 
 [mesl](https://in.mesl.cloud/#/register?code=IsL7kuga) :免费试用一天1G。入口：上海电信、深圳阿里云、深圳移动、上海阿里云、东莞唯云、北京电信、佛山电信、嘉兴电信。落地：Misaka、Dmit、HKT、Akari、Kirino、Nearoute、Eons、MIKU、Amazon、Softbank等。流媒体解锁挺好、线路类型很丰富的一个机场。月付14块100G起。试用后感觉不错可以付费使用。
 
+[速云](https://yooo.live/auth/register?code=ACyf) ： 3天10G,Trojan协议
 
 [sockboom](https://sockboom.bar/auth/register?affid=513875) : 1天1G
 
 [InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G
 
 [KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G
+
 
 [大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：1h1G
 
@@ -124,11 +126,13 @@ cloudflare旗下vpn
 
 clash订阅地址(直接复制粘贴到clash订阅下载里面)：   
 
-
 https://sub.pmsub.me/clash.yaml  
 
 
-2）https://sub.sharecentre.online/sub 12条，vmess
+2) https://tz.fovi.tk/
+
+
+3）https://sub.sharecentre.online/sub 12条，vmess
 
 
 https://git.io/emzclash
