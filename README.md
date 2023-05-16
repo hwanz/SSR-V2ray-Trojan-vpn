@@ -61,14 +61,18 @@ cloudflare旗下vpn
 [可莉](http://bit.ly/40owxlY)：全Trojan的线路机场。新注册用户可使用免费的2GB流量。运营5年有余，节点采用BGP入口/IEPL专线热备。有少量小众地区节点（阿根廷、卢森堡、巴西。土耳其），香港线路速度佳，流媒体解锁效果好
 入门套餐:￥16.88/60GB/30天，￥168.88/720GB/360天
 
+[速云](https://yooo.live/auth/register?code=ACyf) ： 3天10G,Trojan协议
+
+[GLaDOS](https://glados.space/landing/J9C19-MQ4YW-PE0G9-62FP3) :  免费4天,10G,签到一天续一天。
+
+[tly](https://tly.sh/2313972) ： 3天2G,3天签到一次可以继续使用，一直签一直能用。
+
 
 [魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
 [逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
 
 [mesl](https://in.mesl.cloud/#/register?code=IsL7kuga) :免费试用一天1G。入口：上海电信、深圳阿里云、深圳移动、上海阿里云、东莞唯云、北京电信、佛山电信、嘉兴电信。落地：Misaka、Dmit、HKT、Akari、Kirino、Nearoute、Eons、MIKU、Amazon、Softbank等。流媒体解锁挺好、线路类型很丰富的一个机场。月付14块100G起。试用后感觉不错可以付费使用。
-
-[速云](https://yooo.live/auth/register?code=ACyf) ： 3天10G,Trojan协议
 
 [sockboom](https://sockboom.bar/auth/register?affid=513875) : 1天1G
 
@@ -95,12 +99,9 @@ cloudflare旗下vpn
 
 [宝贝云](https://v3ssy.xyz/#/register?code=IIL79wU9) : 1天2G
 
-[besnow](https://besnow.me/index.php#/register?code=TyRVbl9i) :3天9G
-
 
 [ac云](https://yysw.acyun.tk/#/register?code=FU99iFix)： 一个月100G,需要自己去商店购买
 
-[glados](https://glados.rocks/) :  免费4天,10G
 
 [proxyvip](https://www.proxyvip.xyz/#/register?code=OwoZI8sC) 一天60G
 
