@@ -6,6 +6,8 @@
 
 
 掌握最新机场优惠折扣通知，最新机场推荐评测图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
+便宜机场推荐，对自己好一点~ ：**<a href="https://github.com/hwanz/SS-SSR-V2ray/blob/master/README.md" target="_blank">便宜付费机场推荐</a>**
+
 
 **如果有帮助到您，点个Star鼓励我日常更新呗~**
 
@@ -217,6 +219,9 @@ https://gogogle.cf/
 
 
 https://startgoogle.startpagina.nl/
+
+
+https://google.winmini.eu.org/
 
 
 
