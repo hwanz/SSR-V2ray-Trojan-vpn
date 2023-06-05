@@ -53,7 +53,7 @@ cloudflare旗下vpn
 [老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费<a href="https://jichangtuijian.com/老猫云历史测速结果整合.html" target="_blank">老猫云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 
-[大哥云](https://aa66aa.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
+[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 
 [雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 4天1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
