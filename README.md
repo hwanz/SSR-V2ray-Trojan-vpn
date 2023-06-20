@@ -46,7 +46,7 @@ cloudflare旗下vpn
 
 
 2023.06更新
-[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 一小时1G，某大佬机场，BGP隧道中转SS机场，适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，可免费试用一天10G。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费
+[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 3小时1G，某大佬机场，BGP隧道中转SS机场，适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费
 
 
 [云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
