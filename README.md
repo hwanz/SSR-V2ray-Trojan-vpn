@@ -45,7 +45,7 @@ cloudflare旗下vpn
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
 
-2023.06更新
+2023.07更新
 [悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 3小时1G，某大佬机场，BGP隧道中转SS机场，适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费
 
 
@@ -60,6 +60,8 @@ cloudflare旗下vpn
 
 [雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 4天1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
 
+[极客加速器](https://board.jike99.xyz/#%252Fregister%253Fcode%253DDEWJpq74) :3天5G
+
 [FSCloud](https://dash.fscloud.cc/#/register?code=3Ml6pg2Y) : 3天10G,Azure拉全球       
 
 [可莉](http://bit.ly/40owxlY)：全Trojan的线路机场。新注册用户可使用免费的2GB流量。运营5年有余，节点采用BGP入口/IEPL专线热备。有少量小众地区节点（阿根廷、卢森堡、巴西。土耳其），香港线路速度佳，流媒体解锁效果好
@@ -68,6 +70,13 @@ cloudflare旗下vpn
 [速云](https://yooo.live/auth/register?code=ACyf) ： 3天10G,Trojan协议
 
 [GLaDOS](https://glados.space/landing/J9C19-MQ4YW-PE0G9-62FP3) :  免费4天,10G,签到一天续一天。
+
+[狗头加速器](https://lksi.xyz/#/register?code=Yi5MH9Gl) :5天5G
+
+[TaiShan Net](https://www.taishan.pro/#/register?code=bc96eHTt) :7天10G
+
+非常便宜的机场：
+[一元机场]([Title](https://xn--4gq62f52gdss.com/#%252Fregister%253Fcode%253Dpqv3XyvY)) :11块/年，50g/月。这个价格不能要求太多
 
 [tly](https://tly.sh/2313972) ： 3天2G,3天签到一次可以继续使用，一直签一直能用。
 
