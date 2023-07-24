@@ -49,81 +49,67 @@ cloudflare旗下vpn
 [悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 3小时1G，某大佬机场，BGP隧道中转SS机场，适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费
 
 
+[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
+
 [云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
 
 
 [老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费<a href="https://jichangtuijian.com/老猫云历史测速结果整合.html" target="_blank">老猫云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 
-[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 
-[雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 4天1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
+非常便宜的机场：
+[一元机场]([Title](https://xn--4gq62f52gdss.com/#%252Fregister%253Fcode%253Dpqv3XyvY)) :11块/年，50g/月。这个价格不能要求太多
+
+
+[雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 8h 1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
 
 [极客加速器](https://board.jike99.xyz/#%252Fregister%253Fcode%253DDEWJpq74) :3天5G
 
-[FSCloud](https://dash.fscloud.cc/#/register?code=3Ml6pg2Y) : 3天10G,Azure拉全球       
+[FSCloud](https://dash.fscloud.cc/#/register?code=3Ml6pg2Y) : 3天10G,Azure拉全球
 
-[可莉](http://bit.ly/40owxlY)：全Trojan的线路机场。新注册用户可使用免费的2GB流量。运营5年有余，节点采用BGP入口/IEPL专线热备。有少量小众地区节点（阿根廷、卢森堡、巴西。土耳其），香港线路速度佳，流媒体解锁效果好
-入门套餐:￥16.88/60GB/30天，￥168.88/720GB/360天
+[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
 
-[速云](https://yooo.live/auth/register?code=ACyf) ： 3天10G,Trojan协议
+[魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
 
-[GLaDOS](https://glados.space/landing/J9C19-MQ4YW-PE0G9-62FP3) :  免费4天,10G,签到一天续一天。
+[besnow](https://besnow.me/index.php#/register?code=TyRVbl9i) :3天9G
+
 
 [狗头加速器](https://lksi.xyz/#/register?code=Yi5MH9Gl) :5天5G
 
 [TaiShan Net](https://www.taishan.pro/#/register?code=bc96eHTt) :7天10G
 
-非常便宜的机场：
-[一元机场]([Title](https://xn--4gq62f52gdss.com/#%252Fregister%253Fcode%253Dpqv3XyvY)) :11块/年，50g/月。这个价格不能要求太多
+[速云](https://zhu.suyun.bio/auth/register?code=J2GW) ： 3天10G,Trojan协议
+
+[GLaDOS](https://glados.space/landing/J9C19-MQ4YW-PE0G9-62FP3) :  免费4天,10G,签到一天续一天。
 
 [tly](https://tly.sh/2313972) ： 3天2G,3天签到一次可以继续使用，一直签一直能用。
 
+[sockboom](https://sockboom.love/auth/register?affid=513875) : 1天1G
 
-[魔戒](https://www.mojie.me/#/register?code=WRvvD3zu) :1块2G 试用套餐
-
-[逗猫](https://doucat.top/index.php#/register?code=DSRm9DaO) :一天3G试用
-
-[mesl](https://in.mesl.cloud/#/register?code=IsL7kuga) :免费试用一天1G。入口：上海电信、深圳阿里云、深圳移动、上海阿里云、东莞唯云、北京电信、佛山电信、嘉兴电信。落地：Misaka、Dmit、HKT、Akari、Kirino、Nearoute、Eons、MIKU、Amazon、Softbank等。流媒体解锁挺好、线路类型很丰富的一个机场。月付14块100G起。试用后感觉不错可以付费使用。
-
-[sockboom](https://sockboom.bar/auth/register?affid=513875) : 1天1G
-
-[InfiniPort](https://f0216420b.infinispeed-183a03b0.net/#/register?code=WMaOsAc6) : 1天 16G
 
 [KELECLOUD](https://panel.keleofficial.com/#/register?code=WrmwTUQR) : 1天 1G
 
-
 [大牛机场](https://daniu.e300daniu.top/#/register?code=OIdNxKQv) ：1h1G
 
-[奶瓶](https://share.eleven.observer/auth/register.html?code=IYRJ) 2小时试用
 
-[bitznet](https://dash.bitznetuk.com/#/register?code=NmQ1OwOa) : IEPL专线中转。1天 5G
 
-[dualnet](https://dashsrc.dualnet.io/#/register?code=Kuml1MNa): IEPL专线中转。1天 5G
-
-[凌云网络](https://console.ly520.me/#/register?code=Zoz78v3O) 一天1G试用
+[快乐星球](https://klxq.djgskc.top/#/register?code=Z0fWF7Uc) : 7天10G 
 
 [BT3rd-Speed](https://px.bt3.one/#/register?code=hXGyTbwS) 6天10G
 
-[tly](https://tly.sh/2313972) ： 3天2G,3天签到一次可以继续使用，一直签一直能用。
 
-[彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 2G流量体验-一天有效期
+[彩虹云](https://chy.fit/#/register?code=tOEHQarz) : 10G一天
 
 [宝贝云](https://v3ssy.xyz/#/register?code=IIL79wU9) : 1天2G
 
 
-[ac云](https://yysw.acyun.tk/#/register?code=FU99iFix)： 一个月100G,需要自己去商店购买
+[proxyvip](https://www.proxyvip.xyz/#/register?code=OwoZI8sC) : 1G一天
 
 
-[proxyvip](https://www.proxyvip.xyz/#/register?code=OwoZI8sC) 一天60G
 
-
-[帝瓦雷](https://diwolei.com/#/register?code=IxuyTwOh) 半年5G
-
-[大迅云](https://daxun.club/) : 5G 5天
-
-[IKUUU VPN](https://ikuuu.eu/auth/register?code=3WYd) :永久50G 。小黑子露出鸡脚了。
+[大迅云](https://daxun.club/#/register?code=zMlVqbAy) : 10G 2天
 
 
 
