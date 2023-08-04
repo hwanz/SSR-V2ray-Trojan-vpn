@@ -57,6 +57,7 @@ cloudflare旗下vpn
 [老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费<a href="https://jichangtuijian.com/老猫云历史测速结果整合.html" target="_blank">老猫云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 
+[极光加速](https://jgjs02.com/#/register?code=v5uDx0Pv):极光加速，2 天 10G,试用节点多。
 
 
 非常便宜的机场：
