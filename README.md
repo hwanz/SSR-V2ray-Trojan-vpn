@@ -111,7 +111,38 @@ cloudflare旗下vpn
 
 [大迅云](https://daxun.club/#/register?code=zMlVqbAy) : 10G 2天
 
+202308新增：
 
+[BCast](https://bcast.ink/#/register?code=bD3I2Lur) :6天10G
+
+[Bochidev](https://b0chi.r-yu.me/#/register?code=eVZImUhw):Hysteria协议,  50G/不限时，可重复购买,需要到下单页面购买
+
+[cd520](https://cd520.xyz/#/register?code=miSpepEF): 3天5G流量
+
+[翱翔云](https://www.aoxiangyun.top/auth/register?code=77d347ea69) : 7天20G,每天签到可获得 1天 VIP1等级及1000~5000MB流量,直连
+
+[Mickey](https://www.mickey.business/#/register?code=3guPMWLn) :3天2G
+
+[农夫山泉](https://sp.nfsq.me/#/register?code=ZVCgWJWa)：2 天 1G
+
+
+[cocolink](https://cocolink.org/#/register?code=0Fx6gdsk) : 7天64G，质量不大行，流量多时长久的都这样
+
+
+[alori](https://oukasou.xyz/index.php#/register?code=69QSiIrz): 6 天 50G,4个节点
+
+[aimacloud](https://www.aimacloud.info/#/register?code=GK0C5aP3) : 6天 20G,中转
+
+[Synapse](https://user.xinna.co/#/register?code=mTF6TTuu) : 3天 5G
+
+[难民机场](https://nanmin.xyz/#/register?code=flE8dkwl) :2天 5G
+
+
+[BBQ烧烤店](https://qiaoxbbq.com/#/register?code=gWpzwlfG) : 7天 10G
+
+[猫熊网络加速器](https://mxwljsq.xyz/auth/register?code=pyEq) : 3天 5G
+
+[纵横加速](https://www.okvpn.cc/#/register?code=I05Vh129) : 7天 2G
 
 
 ## 3.节点池  
