@@ -45,7 +45,7 @@ cloudflare旗下vpn
 
 
 2023.08更新
-[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 1小时1G，某大佬机场，BGP隧道中转SS机场，适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费
+[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 1小时1G，某大佬机场，BGP隧道中转SS机场，有广州上海总共三个入口，过境大带宽。适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费。性价比不错。8折优惠码：888，每个用户仅限使用一次。
 
 
 [大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
