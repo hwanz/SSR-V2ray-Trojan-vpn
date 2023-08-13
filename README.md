@@ -53,9 +53,6 @@ cloudflare旗下vpn
 [云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
 
 
-[老猫云](https://laomaoyun.me/#/register?code=i0Vv9N5R)： 一小时10G ，饿饭云分站，入口：深圳移动，落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH。可续费<a href="https://jichangtuijian.com/老猫云历史测速结果整合.html" target="_blank">老猫云拓扑结构检测和流媒体、历史测速结果合集</a>
-
-
 [极光加速](https://jgjs02.com/#/register?code=v5uDx0Pv):极光加速，2 天 10G,试用节点多。
 
 
