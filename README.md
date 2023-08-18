@@ -36,7 +36,8 @@ cloudflare旗下vpn
 到TG机器人bot：
 @generatewarpplusbot  到按提示申请流量的key，然后添加到下载的软件账户上，大概有23pb，1pb等于100万G。不同运营商使用体验不一样。具体自测。
 
-
+用Clash来使用Cloudflare Warp+ 节点，免费，无限流量。clash订阅：
+https://neko-warp.nloli.xyz/
 
 
 ## 2.免费机场/白嫖机场 ：
