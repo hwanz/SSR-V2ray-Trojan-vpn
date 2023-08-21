@@ -143,6 +143,12 @@ https://neko-warp.nloli.xyz/
 [纵横加速](https://www.okvpn.cc/#/register?code=I05Vh129) : 7天 2G
 
 
+0821增加
+[JetFast | 极快代理](https://my.jetfast.dev/#/register?code=8VksZnvi) : 一个月5G,商店下单
+
+[闪电狗](https://shandiandog.com/#/register?code=5q0ayZCE)
+
+
 ## 3.节点池  
 
 通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
