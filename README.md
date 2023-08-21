@@ -146,7 +146,7 @@ https://neko-warp.nloli.xyz/
 0821增加
 [JetFast | 极快代理](https://my.jetfast.dev/#/register?code=8VksZnvi) : 一个月5G,商店下单
 
-[闪电狗](https://shandiandog.com/#/register?code=5q0ayZCE)
+[闪电狗](https://shandiandog.com/#/register?code=5q0ayZCE)  3 天50G
 
 
 ## 3.节点池  
