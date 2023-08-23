@@ -200,8 +200,7 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 [悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 2小时1G，某大佬机场，BGP隧道中转SS机场，多落地，后端负载均衡。比较低调，适合不想人太多的。稳定性和速度都不错。有免费试用，适合不追求节点多的用户。多个入口和过境，不用担心一个入口挂了全都没得用了。老板人不错。需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="./便宜SS机场推荐之悠兔.html" target="_blank">悠兔机场具体介绍</a> 试用体验不错，可以续费。[官网2](https://youtu2.shop/#/register?code=3CxiqyOc)
 
-
-[TAG官网链接](https://suo.yt/KIv9ZJq) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
+[TAG官网链接](https://tagss01.pro/#/auth/AJCjBhsw) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
 
 [云翼网络](https://suo.yt/tC69nKu) IEPl专线与公网中转ss机场。1块1天5G试用。
 
