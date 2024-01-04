@@ -44,8 +44,19 @@ https://neko-warp.nloli.xyz/
 
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
-2023.11
+2024
+
 [奈云](https://www.v2ny.com/#/register?code=baRRZ5rx) : 注册试用3天 5G，速度不错。
+
+
+[ikuuu](https://ikuuu.me/)  50G永久，直连
+
+
+[盛丰](https://xn--iiq540h.com/auth/register?code=Wr2g)  5天1G
+
+
+
+
 
 2023.08更新
 [悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 1小时1G，某大佬机场，BGP隧道中转SS机场，有广州上海总共三个入口，过境大带宽。适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费。性价比不错。8折优惠码：888，每个用户仅限使用一次。
@@ -258,8 +269,17 @@ https://startgoogle.startpagina.nl/
 https://google.winmini.eu.org/
 
 
+## 7.github代理
 
-## 7.其它博客
+https://ghproxy.com
+
+https://git.814560.xyz/
+
+[gitcdn](https://hosts.gitcdn.top/)
+
+
+
+## 8.其它博客
 
 <a href="https://jichangtuijian.com/ssr-v2ray专线机场推荐.html" target="_blank">自用付费稳定高速国外ssr-v2ray-trojan机场推荐</a>
 
