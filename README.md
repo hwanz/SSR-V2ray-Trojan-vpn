@@ -6,7 +6,7 @@
 
 
 掌握最新机场优惠折扣通知，最新机场推荐评测图，最新科学上网相关新闻与消息,欢迎关注 ：[telegram科学上网与机场观察频道](https://t.me/jichangtj)
-便宜机场推荐，对自己好一点~ ：**<a href="https://github.com/hwanz/SSR-V2ray-Trojan/blob/main/README.md" target="_blank">便宜付费机场推荐</a>**
+便宜机场推荐，对自己好一点~ ：**<a href="https://github.com/hwanz/SSR-V2ray-Trojan/blob/main/README.md" target="_blank">便宜付费机场推荐</a>**  如果需要买付费机场。可以从这里挑选，我是专门做机场评测和推荐的
 
 **如果有帮助到您，点个Star鼓励我日常更新呗~**
 
@@ -51,6 +51,7 @@ https://neko-warp.nloli.xyz/
 
 [qlgq](https://www.qlgq.top/auth/register?code=a6a1efbae5)  7天888G
 
+[xqc.best](https://xqc.best/#/register?code=G7aUlkp2) 购买页面购买，可能没有了。
 
 
 
@@ -254,23 +255,21 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 ## 6.Google镜像
 
+
+[goo.xbzxs.org](https://goo.xbzxs.org/)
+
 https://xgoogle.xyz/
 
 https://goo.xbzxs.org/
 
-https://google.power365.ml/
-
-https://jsapi.usthk.cn/
 
 
-https://www.ooopn.com/tool/ggscholar/
 
 https://fsoufsou.com
 
 https://gogo.webbillion.cn
 
 
-https://gogogle.cf/
 
 
 https://startgoogle.startpagina.nl/
@@ -279,19 +278,34 @@ https://startgoogle.startpagina.nl/
 https://google.winmini.eu.org/
 
 
+
+学术镜像：
+
+https://www.ooopn.com/tool/ggscholar/
+
+http://dir.scmor.com/
+
+
 ## 7.github代理
 
-https://ghproxy.com
+[https://ghproxy.com
 
 https://git.814560.xyz/
 
 [gitcdn](https://hosts.gitcdn.top/)
 
+](https://ghproxy.com
 
+https://git.814560.xyz/
+
+[gitcdn](https://hosts.gitcdn.top/)
+
+https://github.boyce.workers.dev/
+)
 
 ## 8.其它博客
 
-<a href="https://jichangtuijian.com/ssr-v2ray专线机场推荐.html" target="_blank">自用付费稳定高速国外ssr-v2ray-trojan机场推荐</a>
+<a href="https://jichangtuijian.com/ssr-v2ray专线机场推荐.html" target="_blank">自用付费稳定高速国外ssr-v2ray-trojan机场推荐，需要付费机场的可以从这里挑选</a>
 
 
 <a href="https://jichangtuijian.com/国外VPS主机推荐.html" target="_blank">适合翻墙建站国外VPS服务器主机推荐</a> ：适合自己梯子，或者建站VPS
