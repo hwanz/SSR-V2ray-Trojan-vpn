@@ -45,6 +45,18 @@ https://neko-warp.nloli.xyz/
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
 
+3月新增：
+
+1） 橘子公益云订阅链接：https://sub.5112233.xyz/auto
+
+已适配自适应订阅内容
+v2rayN clash.meta（Clash Nyanpasu，clash-verge，ClashX Meta） sing-box（SFI）
+
+2） warp
+https://github.com/vvbbnn00/WARP-Clash-API
+
+该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！
+
 2024 2月新增：
 
 [Speedy](https://cloud.speedypro.xyz/#/register?code=8e52hntA) : 7天10G
