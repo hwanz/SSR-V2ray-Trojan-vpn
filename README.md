@@ -57,6 +57,10 @@ https://github.com/vvbbnn00/WARP-Clash-API
 
 该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！
 
+
+4) [ssrsub](https://sub.ssrsub.com/)
+
+购买套餐输入优惠码【遥遥领先】 可以0u元购。可以买4次。直连机场。
 2024 2月新增：
 
 [Speedy](https://cloud.speedypro.xyz/#/register?code=8e52hntA) : 7天10G
