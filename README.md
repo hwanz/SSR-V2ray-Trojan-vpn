@@ -44,6 +44,8 @@ https://neko-warp.nloli.xyz/
 
 有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
+4月；
+一个分享免费订阅合集的项目：  https://github.com/Misaka-blog/chromego_merge?tab=readme-ov-file
 
 3月新增：
 
