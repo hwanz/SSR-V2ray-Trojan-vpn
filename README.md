@@ -10,68 +10,59 @@
 
 **如果有帮助到您，点个Star鼓励我日常更新呗~**
 
-## 1.免费软件
+## 一、免费软件
 
-1）迷雾通： 
+### 1) 迷雾通： 
 
 [迷雾通免翻墙链接](https://waa.ai/xiazaimiwutong)
 
 
 [官网，需要代理才能打开](https://geph.io/zhs/) 
 
-2）landeng：
+免费的应急用用还行，付费贵了。
 
-很多人听过用过
+### 2) landeng：
+
+很多人听过用过，启蒙软件了。付费太贵啦。
 
 [官网](https://github.com/getlantern/)
 
 免费限制500M，下面有些链接被墙了,可以先用蓝灯打开
 
-3）赛风： [官网](https://psiphon3.com/zh/index.html)
+### 3) 赛风
 
+[官网](https://psiphon3.com/zh/index.html)
 
-4）Warp ：
+慢。
+
+### 4) Warp ：
 cloudflare旗下vpn
 全平台下载:https://cloudflarewarp.com/
 到TG机器人bot：
 @generatewarpplusbot  到按提示申请流量的key，然后添加到下载的软件账户上，大概有23pb，1pb等于100万G。不同运营商使用体验不一样。具体自测。
 
-用Clash来使用Cloudflare Warp+ 节点，免费，无限流量。clash订阅：
-https://neko-warp.nloli.xyz/
+用Clash来使用Cloudflare Warp+ 节点，免费，无限流量。clash订阅： https://neko-warp.nloli.xyz/
 
 
-## 2.免费机场/白嫖机场 ：
+## 二、免费机场/白嫖机场/有试用的机场 ：
 
-有些免费是暂时的，当前可能没有免费活动了。试用的好用可以付费。也可以购买我推荐的长期观察的付费机场。也别用QQ邮箱注册！下面的机场是我长久观察的，可放心付费，付费机场体验好很多。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
+有些免费是暂时的，当前可能没有免费活动了。也可以购买我推荐的长期观察的付费机场。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
-4月：
+202404新增：
 
-[Free机场](https://zero.76898102.xyz) ：较出名的免费白嫖机场。vless协议，部分客户端不支持。自行到商店购买订阅,官网很卡.甲骨文全家桶 监控探针：https://status.2c.lol   复制订阅后订阅不了节点可以使用订阅转换
+[青森云](https://sub.cccc.gg/auth/register?code=Z2ljGK) :SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。老板会在群里，维护比较勤奋，日常会自己测速。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。可以试用6小时。
 
-
-另外一个免费clash订阅，100+节点，有vless节点，需要clash meta内核的clash 比如clash verge rev；clash-nyanpasu
-https://links.bocchi2b.top/clash
+[Arisaka](https://reurl.cc/XG68o7):大带宽专线+隧道ss协议机场,南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月80G起，价格还行；注册可试用10G。8折优惠：UwtJ9Ov1
 
 
-一个分享免费订阅合集的项目：  https://github.com/Misaka-blog/chromego_merge?tab=readme-ov-file
+[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
 
-3月新增：
-
-1） 橘子公益云订阅链接：https://sub.5112233.xyz/auto
-
-已适配自适应订阅内容
-v2rayN clash.meta（Clash Nyanpasu，clash-verge，ClashX Meta） sing-box（SFI）
-
-2） warp
-https://github.com/vvbbnn00/WARP-Clash-API
-
-该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！
+[TaiShan](jp.taishan.pro)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
 
 
-4) [ssrsub](https://sub.ssrsub.com/)
+[Free机场](https://zero.76898102.xyz) : 较出名的免费白嫖机场。vless协议，部分客户端不支持。自行到商店购买订阅,官网很卡.甲骨文全家桶。监控探针：https://status.2c.lol   复制订阅后订阅不了节点可以使用订阅转换
 
-购买套餐输入优惠码【遥遥领先】 可以0u元购。可以买4次。直连机场。
-2024 2月新增：
+[ssrsub](https://sub.ssrsub.com/) ：购买套餐输入优惠码【遥遥领先】 可以0u元购。可以买4次。直连机场。
 
 [Speedy](https://cloud.speedypro.xyz/#/register?code=8e52hntA) : 7天10G
 
@@ -79,9 +70,6 @@ https://github.com/vvbbnn00/WARP-Clash-API
 
 [xqc.best](https://xqc.best/#/register?code=G7aUlkp2) 购买页面购买，可能没有了。
 
-
-
-2024
 
 [奈云](https://www.v2ny.com/#/register?code=baRRZ5rx) : 注册试用3天 5G，速度不错。
 
@@ -93,22 +81,11 @@ https://github.com/vvbbnn00/WARP-Clash-API
 
 
 
-
-
-2023.08更新
-[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 1小时1G，某大佬机场，BGP隧道中转SS机场，有广州上海总共三个入口，过境大带宽。适合不想人太多的。近期我的主用机场，稳定性和速度都不错。有免费试用，其实好不好用得你试了才知道。适合不追求节点多的用户。老板人不错。也有按量付费.需要专属线路、大流量套餐可以开工单找机场主定制。<a href="https://jichangtuijian.com/便宜SS机场推荐之悠兔.html" target="_blank">悠兔具体介绍</a> 试用觉得不错可以续费。性价比不错。8折优惠码：888，每个用户仅限使用一次。
-
-
-[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
-
-[云翼网络](https://bit.ly/3Sfrkd7) IEPl专线与公网中转ss机场。1块1天5G试用。可付费。<a href="https://jichangtuijian.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络拓扑结构检测和流媒体、历史测速结果</a>
-
-
 [极光加速](https://jgjs02.com/#/register?code=v5uDx0Pv):极光加速，2 天 10G,试用节点多。
 
 
-非常便宜的机场：
-[一元机场]([Title](https://xn--4gq62f52gdss.com/#%252Fregister%253Fcode%253Dpqv3XyvY)) :11块/年，50g/月。这个价格不能要求太多
+
+[一元机场]([Title](https://xn--4gq62f52gdss.com/#%252Fregister%253Fcode%253Dpqv3XyvY)) :11块/年，50g/月。这个价格不能要求太多。非常便宜的机场。
 
 
 [雨燕云](https://yuyan.online/#/register?code=PDH6DJO0) : 8h 1G。隧道中转机场。全中转机场，入口：佛山移动，江苏宿迁移动。过境：广港隧道、苏日隧道。
@@ -159,7 +136,6 @@ https://github.com/vvbbnn00/WARP-Clash-API
 
 [大迅云](https://daxun.club/#/register?code=zMlVqbAy) : 10G 2天
 
-202308新增：
 
 [BCast](https://bcast.ink/#/register?code=bD3I2Lur) :6天10G
 
@@ -193,31 +169,32 @@ https://github.com/vvbbnn00/WARP-Clash-API
 [纵横加速](https://www.okvpn.cc/#/register?code=I05Vh129) : 7天 2G
 
 
-0821增加
 [JetFast | 极快代理](https://my.jetfast.dev/#/register?code=8VksZnvi) : 一个月5G,商店下单
 
 [闪电狗](https://shandiandog.com/#/register?code=5q0ayZCE)  3 天50G
 
 
-## 3.节点池  
+## 三、节点池  
 
-通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
+节点池就是将很多免费节点全放在一个订阅里面，直接导入到代理软件中即可。比如导入到clash中。通用订阅的转换为对应的客户端订阅就好。[机场订阅链接转换收集与教程，支持机场ss/ssr/v2ray订阅转clash\quantumultX订阅](/%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html)
 
+### 1) pmsub
+100多条线路，ss+trojan+vmess等
 
+通用订阅：https://sub.pmsub.me/base64   
 
-
-通用订阅：
-1）https://sub.pmsub.me/base64   100多条线路，ss+trojan+vmess等
-
-clash订阅地址(直接复制粘贴到clash订阅下载里面)：   
-
-https://sub.pmsub.me/clash.yaml  
+clash订阅地址(直接复制粘贴到clash订阅下载里面)： https://sub.pmsub.me/clash.yaml  
 
 
-2) https://tz.fovi.tk/
+### 2) fovi
+
+https://tz.fovi.tk/
 
 
-3）https://sub.sharecentre.online/sub 12条，vmess
+### 3) sharecentre
+
+12条，vmess
+https://sub.sharecentre.online/sub 
 
 
 https://git.io/emzclash
@@ -225,11 +202,31 @@ https://git.io/emzclash
 https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
-[小三VPN](https://github.com/sharmajv/vpn): 安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池
+### 4）小三VPN
+安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池: https://github.com/sharmajv/vpn
 
 
+### 5) 橘子公益云订阅链接
 
-需要先翻墙才打得开或者看得到：
+[https://sub.5112233.xyz/auto](https://sub.5112233.xyz/auto)
+
+已适配自适应订阅内容:v2rayN 、 clash.meta（Clash Nyanpasu，clash-verge，ClashX Meta）、 sing-box（SFI）
+
+### 6) warp
+https://github.com/vvbbnn00/WARP-Clash-API
+
+该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！
+
+### 7) bocchi2b
+
+[https://links.bocchi2b.top/clash](https://links.bocchi2b.top/clash) :另外一个免费clash订阅，100+节点，有vless节点，需要clash meta内核的clash 比如clash verge rev、clash-nyanpasu
+
+### 8) chromego_merge
+
+[一个分享免费订阅合集的项目](https://github.com/Misaka-blog/chromego_merge?tab=readme-ov-file)
+
+
+可能需要先翻墙才打得开或者看得到：
 
 [free-ss](https://free-ss.site)
 
@@ -238,32 +235,23 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 [全部SS账号信息](http://ss.pythonic.life/full)
 
-
-
-可以直接打开：
-
 [ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 
 
-## 4.推荐几个便宜的机场
+## 四、推荐几个便宜的机场，下面的机场是我长久观察的，可放心付费，付费机场体验好很多。
 
-[悠兔官网](https://youtu.shop/#/register?code=3CxiqyOc) : 2小时1G，某大佬机场，BGP隧道中转SS机场，多落地，后端负载均衡。比较低调，适合不想人太多的。稳定性和速度都不错。有免费试用，适合不追求节点多的用户。多个入口和过境，不用担心一个入口挂了全都没得用了。老板人不错。需要专属线路、大流量套餐可以开工单找机场主定制。八折优惠码：666。<a href="./便宜SS机场推荐之悠兔.html" target="_blank">悠兔机场具体介绍</a> 试用体验不错，可以续费。[官网2](https://youtu2.shop/#/register?code=3CxiqyOc)
+[贝贝云官网](https://beibei.cloud/?path=register&code=qwqDFEUW) : SS协议中转机场，过境大带宽。适合不想人太多的，速度不错。每月9.9起，性价比高。95折优惠码：beibei.cloud ，每个用户仅限使用一次。   
 
-[TAG官网链接](https://tagss01.pro/#/auth/AJCjBhsw) ：华为云入口IEPl专线机，特选套餐 ,200G/年,140块/年,200+节点。
+[海獭](https://haita.link/reguser?aff=VQq8ZO5j) : SS协议中转机场。奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。不限制客户端数目。85折优惠码：pN02HX5n   
 
-[云翼网络](https://suo.yt/tC69nKu) IEPl专线与公网中转ss机场。1块1天5G试用。
+[疾风](https://jifeng468.xyz/auth/register?code=nvzC) ：中转vmess协议机场。老板在国外。不用担心跑路。多个入口。不同等级线路不一样。v5到v1，数字越小线路越多，速度越大。建议v3起。当然v1也不差。
 
-[翼游官网](https://suo.yt/jo4NFtf)   ：ssr+trojan，全IEPl专线机场。有各个平台小白一键使用客户端。 每月10块50G流量 2个客户端，随便用用没问题。
+[TAG官网链接](https://tagss04.pro/#/auth/AJCjBhsw) ：华为云入口IEPl专线机场，特选套餐 ,200G/年,140块/年,200+节点。
 
 [kycloud官网](https://suo.yt/NVrN8Vj) IEPL专线SS+Vmess机场，老机场，CDN优选入口，智能接入。也有海外用户节点（就是给在国外的人用的）。套餐不限同时在线客户端数。注册需要先购买。年付150每月10G流量起。
 
-[泡泡狗](http://bit.ly/3zFq9LZ): IEPL专线Shadowsocks协议机场。前置佛山珠海走深圳的iepl到香港。过境口子大，解锁不错。月付与不限时共存。7.5/月63G流起.  
-
-
-[edCloud网链接1](https://bit.ly/3DcTK0) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜10块/50G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。  <a href="./回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>   
-
-[Hutao官网，需要代理打开](https://bit.ly/3G9K4Dy) : 全IEPL专线传输，支持 SS+SSR++V2ray+Trojan协议机场。推荐给需要按量付费或者是轻量用户。Trojan节点数目比SSR少。新用户专属95折优惠码：hutao。9块/月50G起。
+[edCloud网链接1](https://cdn.ednovas.org/#/register?code=Ik0AHQqO) ：vmess，深港专线机场。高性价比冷门节点机场。最便宜10块/50G流量起。有两个特色：1.主要是有3个回国节点：北京、上海和一个随机城市。白名单，常用国内流媒体使用。5、10倍率。有回国线路的机场比较少。需要购买英文名称套餐 才有：“This 200G Monthly Plan is for Foreign Customers Outside China”，放这家主要是因为有回国的机场很少。2.落地国家和节点多，130+国家，200+节点。且很多是低倍率。“权宜”套餐以上才有。  <a href="./回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud历史测速结果整合</a>   
 
 
 具体介绍如下，需要更多稳定高速机场参考，建议收藏，避免急需：
@@ -273,29 +261,26 @@ https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
 
-## 5.改hosts
+## 五、改hosts
 可以使用工具一键更改，也可以手动改，主要是很容易失效，需要经常改，比较麻烦
 <a href="https://github.com/googlehosts/hosts">googlehosts改hosts教程</a>
 
 
 
-## 6.Google镜像
+## 六、Google镜像
 
+部分人只要用梯子来谷歌而已。
 
-[goo.xbzxs.org](https://goo.xbzxs.org/)
+[goo.xbzxs.org](https://goo.xbzxs.org)
 
 https://xgoogle.xyz/
 
 https://goo.xbzxs.org/
 
 
-
-
 https://fsoufsou.com
 
 https://gogo.webbillion.cn
-
-
 
 
 https://startgoogle.startpagina.nl/
@@ -305,31 +290,33 @@ https://google.winmini.eu.org/
 
 
 
-学术镜像：
+谷歌学术镜像：
 
 https://www.ooopn.com/tool/ggscholar/
 
 http://dir.scmor.com/
 
 
-## 7.github代理
+## 七、github代理
 
-[https://ghproxy.com
+临时应急下载 github 文件使用：
+
+https://ghproxy.com
 
 https://git.814560.xyz/
 
 [gitcdn](https://hosts.gitcdn.top/)
 
-](https://ghproxy.com
+https://ghproxy.com
 
 https://git.814560.xyz/
 
 [gitcdn](https://hosts.gitcdn.top/)
 
 https://github.boyce.workers.dev/
-)
 
-## 8.其它博客
+
+## 八、其它博客
 
 <a href="https://jichangtuijian.com/ssr-v2ray专线机场推荐.html" target="_blank">自用付费稳定高速国外ssr-v2ray-trojan机场推荐，需要付费机场的可以从这里挑选</a>
 
