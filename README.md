@@ -12,6 +12,12 @@
 
 ## 一、免费软件
 
+### 0）365VPN
+
+https://www.365tz96752.com/?r=ZAATYQ ，免费使用，输入邀请码： ZAATYQ ，额外领取3天使用时间
+还有 15天无理由全额退款保证
+
+
 ### 1) 迷雾通： 
 
 [迷雾通免翻墙链接](https://waa.ai/xiazaimiwutong)
