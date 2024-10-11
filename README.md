@@ -46,23 +46,14 @@
 
 有些免费是暂时的，当前可能没有免费活动了。也可以购买我推荐的长期观察的付费机场。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
-
-5月：
-
-[快连](https://8m5tnb.onelink.me/0Iq2/72awzjy7) ：免费使用3天。有客户端。很出名了已经。到处都可以看到。
-
-
-202404新增：
-
-[青森云](https://sub.cccc.gg/auth/register?code=Z2ljGK) :SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。老板会在群里，维护比较勤奋，日常会自己测速。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。可以试用6小时。
-
-[Arisaka](https://reurl.cc/XG68o7):大带宽专线+隧道ss协议机场,南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月80G起，价格还行；注册可试用10G。8折优惠：UwtJ9Ov1
-
-
-[大哥云](https://ab12y.com/#/register?code=YoIVdQJj) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
+[大哥云](https://honven20.dgywzc.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
 
 [taishan泰山机场](https://jp.taishan.pro/register?code=HgVGfDEz)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
 
+[快连](https://8m5tnb.onelink.me/0Iq2/72awzjy7) ：免费使用3天。有客户端。很出名了已经。到处都可以看到。
+
+ 
+[Arisaka](https://reurl.cc/XG68o7):大带宽专线+隧道ss协议机场,南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月80G起，价格还行；注册可试用10G。8折优惠：UwtJ9Ov1
 
 [Free机场](https://zero.76898102.xyz) : 较出名的免费白嫖机场。vless协议，部分客户端不支持。自行到商店购买订阅,官网很卡.甲骨文全家桶。监控探针：https://status.2c.lol   复制订阅后订阅不了节点可以使用订阅转换
 
