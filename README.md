@@ -14,8 +14,8 @@
 
 ### 0）365VPN
 
-[365VPN](https://www.365tz96752.com/?r=ZAATYQ)  ，免费使用，输入邀请码： ZAATYQ ，额外领取3天使用时间
-还有 15天无理由全额退款保证
+[365VPN](https://365vpn.org/?r=ZAATYQ)  ，免费使用，输入邀请码： ZAATYQ ，额外领取3天使用时间
+还有 15天无理由全额退款保证.[365VPN](https://www.365ld87948.me/?r=ZAATYQ) 
 
 
 ### 1) 迷雾通： 
@@ -41,15 +41,7 @@
 
 慢。
 
-### 4) Warp ：
-cloudflare旗下vpn
-全平台下载:https://cloudflarewarp.com/
-到TG机器人bot：
-@generatewarpplusbot  到按提示申请流量的key，然后添加到下载的软件账户上，大概有23pb，1pb等于100万G。不同运营商使用体验不一样。具体自测。
-
-用Clash来使用Cloudflare Warp+ 节点，免费，无限流量。clash订阅： https://neko-warp.nloli.xyz/
-
-
+ 
 ## 二、免费机场/白嫖机场/有试用的机场 ：
 
 有些免费是暂时的，当前可能没有免费活动了。也可以购买我推荐的长期观察的付费机场。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
