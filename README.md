@@ -261,30 +261,7 @@ https://github.com/vvbbnn00/WARP-Clash-API
 
 
 
-## 六、Google镜像
-
-部分人只要用梯子来谷歌而已。
-
-[goo.xbzxs.org](https://goo.xbzxs.org)
-
-https://xgoogle.xyz/
-
-https://goo.xbzxs.org/
-
-
-https://fsoufsou.com
-
-https://gogo.webbillion.cn
-
-
-https://startgoogle.startpagina.nl/
-
-
-https://google.winmini.eu.org/
-
-
-
-谷歌学术镜像：
+## 六、学术镜像：
 
 https://www.ooopn.com/tool/ggscholar/
 
@@ -295,20 +272,39 @@ http://dir.scmor.com/
 
 临时应急下载 github 文件使用：
 
-https://ghproxy.com
 
 https://git.814560.xyz/
 
 [gitcdn](https://hosts.gitcdn.top/)
+ 
+GitHub Proxy 最新地址发布页 https://ghproxy.link
 
-https://ghproxy.com
+https://gh.api.99988866.xyz
 
-https://git.814560.xyz/
+https://ghp.ml1.one
 
-[gitcdn](https://hosts.gitcdn.top/)
+https://doget.nocsdn.com
 
-https://github.boyce.workers.dev/
+https://ghgo.xyz
 
+https://slink.ltd
+
+https://ghps.cc
+
+https://gh-proxy.com
+
+https://ghproxy.cc
+
+https://cf.ghproxy.cc
+
+https://github.tmby.shop
+
+https://gh-proxy.ygxz.in
+
+https://ghproxy.net
+
+https://ghproxy.cn
+)
 
 ## 八、其它博客
 
