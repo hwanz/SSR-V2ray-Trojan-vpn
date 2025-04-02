@@ -51,6 +51,9 @@
 
 [taishan泰山机场](https://jp.taishan.pro/register?code=HgVGfDEz)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
 
+[爱翻机场](https://dash.afun.la/register?code=jR93CdXT)  :10G3天限速200M,一个香港一个新加坡节点
+
+
 [快连](https://8m5tnb.onelink.me/0Iq2/72awzjy7) ：免费使用3天。有客户端。很出名了已经。到处都可以看到。
 
 [中国国际机场](https://affman.mellanox.fyi/#/register?code=vX71X9K6) ：2天15G
