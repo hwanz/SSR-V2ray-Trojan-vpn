@@ -45,11 +45,18 @@
 
 [万达云官网](https://www.z1z1.top/vip)： 广东移动4G带宽公网中转机场，有条高倍率的IEPL线路。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。这家机场的老板应该不少机场老板认识。有3G流量试用。
 
-
-
-[大哥云](https://honven20.dgywzc.com/#/register?code=lEHKtVDi) : 1天10G，3年老机场了。广州移动和湖南联通G口独享。可以付费。<a href="https://jichangtuijian.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、历史测速结果合集</a>
-
 [taishan泰山机场](https://jp.taishan.pro/register?code=HgVGfDEz)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
+
+
+[flybit](https://flybit.vip/#/register?code=pUZVbYXa) ：1天 2G
+
+[纵云梯](https://zongyunti.com/?r=64636) :  1GB 不限时流量 ,每日签到可获得0-1GB流量
+
+[加速啦](https://jiasu.la/?r=64637) :  1GB 不限时流量 ,每日签到可获得0-1GB流量
+
+[白羊星](https://baiyangxing.com/#/register?code=WQERsTSR)：1天 5G
+
+
 
 [爱翻机场](https://dash.afun.la/register?code=jR93CdXT)  :10G3天限速200M,一个香港一个新加坡节点
 
