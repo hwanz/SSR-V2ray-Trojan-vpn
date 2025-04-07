@@ -47,6 +47,7 @@
 
 [taishan泰山机场](https://jp.taishan.pro/register?code=HgVGfDEz)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
 
+[白变小樱](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=li48) ：3天10G
 
 [flybit](https://flybit.vip/#/register?code=pUZVbYXa) ：1天 2G
 
