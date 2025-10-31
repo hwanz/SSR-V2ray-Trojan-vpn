@@ -43,6 +43,17 @@
 
 有些免费是暂时的，当前可能没有免费活动了。也可以购买我推荐的长期观察的付费机场。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
+
+2025.11更新：
+[🐱乐猫](https://a1.lemao888.top/#/register?code=9tSyX1XR) : hy2直连机场。12个节点常用地区。30天500G.移动网有100M带宽。
+
+[榴莲加速器](https://www.liulianvpn.org/#/register?code=iVbOVylU) : vless直连机场。20+常用地区节点都有。30天100G.需要进tg群拿优惠码下单。移动网有50M带宽。
+
+[ikuuu](https://ikuuu.de/auth/register?code=rKPh) : vmess直连机场。7个日本节点。永久50G. 移动网有20M带宽。
+
+
+
+
 [万达云官网](https://www.z1z1.top/vip)： 广东移动4G带宽公网中转机场，有条高倍率的IEPL线路。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。这家机场的老板应该不少机场老板认识。有3G流量试用。
 
 [taishan泰山机场](https://jp.taishan.pro/register?code=HgVGfDEz)  ：最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。
