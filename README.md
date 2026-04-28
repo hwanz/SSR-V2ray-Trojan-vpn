@@ -75,7 +75,6 @@
 [爱翻机场](https://dash.afun.la/register?code=jR93CdXT)  :10G3天限速200M,一个香港一个新加坡节点
 
 
-[快连](https://8m5tnb.onelink.me/0Iq2/72awzjy7) ：免费使用3天。有客户端。很出名了已经。到处都可以看到。
 
 [中国国际机场](https://affman.mellanox.fyi/#/register?code=vX71X9K6) ：2天15G
 
